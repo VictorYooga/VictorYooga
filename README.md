@@ -1,3 +1,17 @@
+{
+  "name": "Readme Typing SVG",
+  "description": "⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.",
+  "repository": "https://github.com/DenverCoder1/readme-typing-svg/",
+  "keywords": ["github", "dynamic", "readme", "typing", "svg", "profile"],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
+
+
 Olá! eu sou o Victor 🙋🏽‍♂️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victoryooga/)
