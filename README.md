@@ -10,5 +10,9 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/>
+
 Apaixonado por tecnologia, cursando Análise e Desenvolvimento de Sistemas. :D<br/>
 <em>Email: victor10romao@gmail.com<em/>
+
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorYooga&bg_color=050505&color=f0f0f0&line=395026&point=2cba4f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
